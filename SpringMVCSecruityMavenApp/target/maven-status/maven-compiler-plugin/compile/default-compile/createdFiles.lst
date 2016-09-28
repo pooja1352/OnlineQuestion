@@ -1,0 +1,5 @@
+com/journaldev/spring/secuity/config/core/SpringMVCWebAppInitializer.class
+com/journaldev/spring/secuity/config/LoginApplicationConfig.class
+com/journaldev/spring/web/controller/LoginController.class
+com/journaldev/spring/secuity/config/LoginSecurityConfig.class
+com/journaldev/spring/secuity/config/core/SpringSecurityInitializer.class
